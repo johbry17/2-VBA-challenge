@@ -1,5 +1,9 @@
 ## Module 2 Challenge, 26 June 2023, VBA Challenge
 
+main iterates over every worksheet in a workbook, calling DoEverything. The aptly named DoEverything populates all fields in a single worksheet according to specs below.
+
+There is a TestClearColumns that clears all columns I:Q, so be careful with that
+
 ## Background
 You are well on your way to becoming a programmer and Excel expert! In this homework assignment, you will use VBA scripting to analyze generated stock market data.
 
