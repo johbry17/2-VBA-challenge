@@ -1,8 +1,8 @@
 ## Module 2 Challenge, 26 June 2023, VBA Challenge
 
-Development has stopped on this project
+Development on this project has stopped
 
-##Description
+## Description
 
 This script analyses data from a spreadsheet of annual changes in the stock market.
 
@@ -13,10 +13,10 @@ It creates a separate table that shows which stocks had the greatest % increase,
 These two tables are summarized on each sheet of an excel workbook.
 
 Before:
-![before_stock_first_sheet.png(./)]
+![Before](before_stock_first_sheet.png)
 
 After:
-![after_stock_first_sheet.png(./)]
+![After](after_stock_first_sheet.png)
 
 ## Usage
 
